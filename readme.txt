@@ -14,4 +14,6 @@ V1.0.0 (12.25.2021.)
 
 *** 세이브파일 초기화 시 data\backup\init.dat 파일을 data.dat로 변경 후 data\에 덮어씌울 것
 
-![project-1](https://user-images.githubusercontent.com/74097144/204093827-638c850f-493d-4671-9ddb-bfef46839722.gif)
+<p align="center">
+<img src="https://user-images.githubusercontent.com/74097144/204093827-638c850f-493d-4671-9ddb-bfef46839722.gif">
+</p>
